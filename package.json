@@ -1,7 +1,7 @@
 {
   "name": "avo2-react",
   "private": true,
-  "homepage": "https://WAQARRKHANN.github.io/MyNextjsApp",
+  "homepage": "https://WAQARRKHANN.github.io/New_NextJS_App",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
